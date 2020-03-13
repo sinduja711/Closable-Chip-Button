@@ -1,0 +1,29 @@
+.chipButton {
+    width: 153px;
+    height: 22px;
+    border-radius: 10px;
+    background-color: #4e7de5;
+    overflow: hidden;
+    margin: 20px;
+    float: left;
+  }
+  .chipText {
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    padding: 2px;
+  }
+  .close {
+    color: white !important;
+    margin: 0px 5px !important;
+    font-size: 18px !important;
+    position: relative;
+    top: -20px;
+    right: -1px;
+    padding: 0px 5px!important;
+    cursor: pointer;
+  }
+  .closeButton {
+    right: 0px;
+  }
+ 

@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "text" : "Chip 1",
+        "color" : "pink",
+        "isClosable" : "true"      
+    },
+    {
+        "id" : 2,
+        "text" : "Chip 2",
+        "color" : "orange",
+        "isClosable" : "false" 
+    },
+    {
+        "id" : 3,
+        "text" : "Chip 3",
+        "color" : "red",
+        "isClosable" : "true" 
+    },
+    {
+        "id" : 4,
+        "text" : "Chip 4",
+        "color" : "yellow",
+        "isClosable" : "true" 
+    },
+    {
+        "id" : 5,
+        "text" : "Chip 5",
+        "color" : "purple",
+        "isClosable" : "false" 
+    }
+  ]
